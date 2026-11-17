@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- Header Banner Dinámico y Ondulante -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,28,31&height=220&section=header&text=Kevin%20Castro%20Quintero&fontSize=48&fontAlignY=36&animation=twinkling&desc=Ingeniero%20de%20Software%20%7C%20Full-Stack%20%7C%20ERP%20%26%20HPC%20%7C%20AI%20Solutions&descFontSize=19&descAlignY=62" width="100%" alt="Kevin Castro Header"/>
+  <!-- Header Banner Dinámico y Ondulante (Corregido con efecto Twinkling) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,28,31&height=220&section=header&text=Kevin%20Castro%20Quintero&fontSize=48&fontAlignY=36&animation=twinkling&desc=Ingeniero%20de%20Software%20%7C%20Full-Stack%20%7C%20ERP%20and%20HPC%20%7C%20AI%20Solutions&descFontSize=19&descAlignY=62" width="100%" alt="Kevin Castro Header"/>
 
   <!-- Efecto Máquina de Escribir Animado (Typing SVG) -->
   <a href="https://github.com/KevinCastro25">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+Hola%2C+soy+Kevin+Castro+Quintero;%F0%9F%9A%80+Ingeniero+de+Software+%26+Desarrollador+Full-Stack;%E2%9A%99%EF%B8%8F+Especialista+en+Odoo+ERP+%26+Facturaci%C3%B3n+Electr%C3%B3nica+DIAN;%E2%9A%A1+High+Performance+Computing+(HPC)+con+C%2FC%2B%2B%2C+MPI+y+OpenMP;%F0%9F%9B%8D%EF%B8%8F+Arquitectura+de+E-Commerce+Escalable+(NextStep);%F0%9F%A4%96+Integrador+de+Inteligencia+Artificial+y+Automatizaciones" alt="Typing SVG" />
   </a>
 
-  <p align="center">
+  <p align="center" style="margin-top: 10px;">
     <a href="https://www.linkedin.com/in/kevin-castro-quintero-3a6b30262/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Castro%20Quintero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -17,9 +17,7 @@
     <a href="https://github.com/KevinCastro25">
       <img src="https://img.shields.io/badge/GitHub-KevinCastro25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="https://github.com/KevinCastro25?tab=followers">
-      <img src="https://img.shields.io/github/followers/KevinCastro25?style=for-the-badge&logo=github&label=Seguidores&color=00f2fe" alt="Followers Badge"/>
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=KevinCastro25&color=00f2fe&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile Views"/>
   </p>
 </div>
 
@@ -27,14 +25,30 @@
 
 ### 🚀 Sobre Mí
 
-Soy **Ingeniero de Software** apasionado por la construcción de sistemas robustos, arquitecturas distribuidas de alta concurrencia y soluciones empresariales que generan impacto medible en los negocios.
-
-Mi trayectoria abarca desde el desarrollo de software corporativo y localización fiscal en **PETI Soluciones Productivas SAS** (implementación de facturación electrónica, nómina, documentos equivalentes ante la **DIAN**, y conectores automáticos multicanal de WhatsApp), hasta el diseño de plataformas de comercio electrónico de alta conversión como **NextStep**, sistemas con Inteligencia Artificial como **FitProIA** y computación científica de alto rendimiento (**HPC**) con paralelismo en C/C++.
-
-- 💼 **Experiencia Empresarial:** Ingeniero de Software en **PETI Soluciones Productivas SAS** (Odoo ERP, DIAN Web Services, Automatizaciones CRM).
-- 🧠 **Áreas de Especialidad:** Soluciones Full-Stack, Arquitectura ERP, Computación Paralela (OpenMP, MPI), IA Aplicada & E-Commerce.
-- ⚡ **Enfoque Técnico:** Código limpio, alta tolerancia a fallos, optimización de algoritmos y escalabilidad en la nube.
-- 📍 **Ubicación:** Colombia 🇨🇴.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Soy <b>Ingeniero de Software</b> enfocado en la construcción de sistemas de alto desempeño, arquitecturas distribuidas y soluciones empresariales de misión crítica que generan impacto tangible.
+      </p>
+      <p>
+        Mi trayectoria abarca desde el desarrollo de software corporativo y localización fiscal en <b>PETI Soluciones Productivas SAS</b> (facturación electrónica, nómina y documentos equivalentes ante la <b>DIAN</b>, además de conectores de WhatsApp multicanal), hasta plataformas de comercio electrónico de alta conversión como <b>NextStep</b>, sistemas con Inteligencia Artificial como <b>FitProIA</b> y computación científica de alto rendimiento (<b>HPC</b>) con paralelismo en C/C++.
+      </p>
+      <ul>
+        <li>💼 <b>Experiencia Empresarial:</b> Ingeniero de Software en <b>PETI Soluciones Productivas SAS</b>.</li>
+        <li>🧠 <b>Áreas Clave:</b> Full-Stack, ERP Odoo, Concurrencia/HPC (OpenMP, MPI), IA & E-Commerce.</li>
+        <li>⚡ <b>Filosofía:</b> Código limpio, escalabilidad en la nube y máxima eficiencia computacional.</li>
+        <li>📍 <b>Ubicación:</b> Colombia 🇨🇴.</li>
+      </ul>
+      <div align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=800&color=39D353&width=450&lines=%F0%9F%94%AD+Desarrollando+soluciones+en+Odoo+ERP+%26+DIAN;%E2%9A%A1+Optimizando+algoritmos+paralelos+en+C+(OpenMP%2FMPI);%F0%9F%9B%8D%EF%B8%8F+Escalando+NextStep+con+log%C3%ADstica+Dropi;%F0%9F%A4%96+Integrando+modelos+de+IA+en+FitProIA" alt="Currently Typing" />
+      </div>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,7 +71,7 @@ Mi trayectoria abarca desde el desarrollo de software corporativo y localizació
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=10" alt="DevOps & Tools" />
 </p>
 
-#### Especialidades & Ecosistemas
+#### Especialidades & Ecosistemas Empresariales
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo"/>
   <img src="https://img.shields.io/badge/DIAN_Facturación_Electrónica-003366?style=flat-square&logo=e&logoColor=white" alt="DIAN"/>
@@ -160,22 +174,23 @@ Mi trayectoria abarca desde el desarrollo de software corporativo y localizació
 ### 📊 Métricas & Actividad en GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KevinCastro25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=E6EDF3" height="175" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCastro25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" height="175" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Tarjetas de Resumen de Perfil y Lenguajes con Gráficos Radiales y Curvas -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinCastro25&theme=radical" width="49%" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinCastro25&theme=radical" width="49%" alt="Top Languages"/>
+  </p>
 
-  <br/>
+  <!-- Contador de Rachas con Fuego y Anillo Animado -->
+  <p align="center">
+    <a href="https://github.com/KevinCastro25">
+      <img src="https://streak-stats.demolab.com/?user=KevinCastro25&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="80%" alt="GitHub Streak Tracker"/>
+    </a>
+  </p>
 
-  <a href="https://github.com/KevinCastro25">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinCastro25&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak Tracker"/>
-  </a>
+  <!-- Gráfico de Actividad Interactivo con Líneas Neón Animadas -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinCastro25&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Activity Graph"/>
+  </p>
 </div>
 
 ---
@@ -183,11 +198,8 @@ Mi trayectoria abarca desde el desarrollo de software corporativo y localizació
 ### 🐍 Contribution Grid Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinCastro25/KevinCastro25/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinCastro25/KevinCastro25/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/KevinCastro25/KevinCastro25/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <!-- Serpiente devoradora de contribuciones cargada directamente desde el repositorio -->
+  <img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake"/>
 </div>
 
 ---
@@ -205,5 +217,6 @@ Mi trayectoria abarca desde el desarrollo de software corporativo y localizació
     </a>
   </p>
   <br/>
+  <!-- Footer ondulante dinámico -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,28,31&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </div>
