@@ -11,8 +11,8 @@
     <a href="https://www.linkedin.com/in/kevin-castro-quintero-3a6b30262/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Castro%20Quintero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:ingenieria@peti.com.co">
-      <img src="https://img.shields.io/badge/Email-ingenieria%40peti.com.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <a href="mailto:kevincq1029@gmail.com">
+      <img src="https://img.shields.io/badge/Email-kevincq1029%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://github.com/KevinCastro25">
       <img src="https://img.shields.io/badge/GitHub-KevinCastro25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -212,7 +212,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
-    <a href="mailto:ingenieria@peti.com.co">
+    <a href="mailto:kevincq1029@gmail.com">
       <img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
